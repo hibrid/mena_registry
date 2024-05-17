@@ -2,15 +2,15 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
+    name: 'Mena Technologies - KASM Registry',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://hibrid.github.io/mena_registry/',
+    contactUrl: 'https://github.com/hibrid/mena_registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/mena_registry/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
